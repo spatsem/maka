@@ -1,9 +1,12 @@
 # maka
 Makatöö andmed.
 
-Täeindan sisu hiljem.
+Täiendan sisu hiljem.
 
 Hetkelseisuga:
 - praegused talunimed GeoJSON (talud.zip -> talud_clean)
-- tuvastusskript ipynb
+- tuvastusskript ipynb (talunimede_tuvastus)
+
+Tulemas:
 - testandmestikud 5 tk GeoJSON
+
